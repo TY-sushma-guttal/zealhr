@@ -1,0 +1,19 @@
+package com.te.zealhr.dto.hr;
+
+import lombok.Data;
+
+@Data
+public class GeneralInformationDTO {
+
+	private long employeeInfoId;
+	private String firstName;
+	private String lastName;
+	private String emailId;
+	private long mobileNumber;
+	private Boolean isActive;
+	private String inActiveType;
+	private String reason;
+	private Long candidateId;
+	private String pictureURL;
+
+}

@@ -1,0 +1,446 @@
+[
+	{
+		"capabilityType": "Admin Dashboard",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Admin Configuration",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Holiday Calendar",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "User Management",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "HR Department",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Admin Department",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "IT Department",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Account Department",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Admin Approval",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "Letter",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Leave",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Time Sheet",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Reimbursement",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Advance Salary",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Admin Notification",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "Revise Salary",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Referral Reward",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Admin Task Management",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "HR Dashboard",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Interview Framework",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Requirements",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Candidate Management",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "Candidate List",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Follow Up",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Scheduled Candidate",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Rejected Candidate",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Employee Management",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "In Progress",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Current Employee",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Salary",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Issue document",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Exit Employee",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Event Management",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "HR Approval",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "Leave",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Time Sheet",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Advance Salary",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Reimbursement",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "HR Notification",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "Revise Salary",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Salary",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Exit Request",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Referral Reward",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "HR Ticket",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Admin Department Dashboard",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Asset Management",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "PC/Laptop",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Other Hardware Item",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Software",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Other Stock Group Items",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Admin Department Ticket",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "IT Dashboard",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Hardware Available",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "PC/Laptop",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Other Accessory",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Hardware Allocated",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "PC/Laptop",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Other Accessory",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Non Working Item",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "PC/Laptop",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Other Accessory",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Software Maintenance",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "IT Ticket",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "Hardware Allocation",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Software Issues",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Hardware Issues",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "ID Card & E-mail",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Sales Dashboard",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Sales Department",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "Lead",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Deal",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Project Management Dashboard",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Add Project",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Estimation",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "On Going Projects",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Task Management",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Account Dashboard",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Vendor Management",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Sales",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "Purchased",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Sales Inventory",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Purchase Inventory",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Work Order",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Salary",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Advance Salary",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Office Expense",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Cost Evaluation",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Invoice",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "Sales Invoice",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Purchase Invoice",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Payslip",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Account Approval",
+		"isEnable": false
+	},
+	{
+		"capabilityType": "Account Notification",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "Advance Salary",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Reimbursement",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Salary",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Pay Slip Generation",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Revise Salary",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Referral Reward",
+				"isEnable": false
+			}
+		]
+	},
+	{
+		"capabilityType": "Account Tickets",
+		"isEnable": false,
+		"childCapabilityNameList": [
+			{
+				"capabilityType": "Sales & Purchase",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Employee",
+				"isEnable": false
+			},
+			{
+				"capabilityType": "Others",
+				"isEnable": false
+			}
+		]
+	}
+]

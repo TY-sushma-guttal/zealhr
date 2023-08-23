@@ -1,0 +1,52 @@
+[
+   {
+     "capabilityType": "My Team",
+     "isEnable": true
+   },
+   {
+     "capabilityType": "Appraisal Meeting",
+     "isEnable": true
+   },
+   {
+     "capabilityType": "Reporting Manager Approval",
+     "isEnable": true,
+     "childCapabilityNameList": [
+       {
+         "capabilityType": "Leave",
+         "isEnable": true
+       },
+       {
+         "capabilityType": "Time Sheet",
+         "isEnable": true
+       },
+       {
+         "capabilityType": "Employee Attendance",
+         "isEnable": true
+       },
+       {
+         "capabilityType": "Reimbursement",
+         "isEnable": true
+       },
+       {
+         "capabilityType": "Advance Salary",
+         "isEnable": true
+       },
+       {
+         "capabilityType": "Resignation Request",
+         "isEnable": true
+       },
+       {
+         "capabilityType": "Extra Work",
+         "isEnable": true
+       },
+       {
+         "capabilityType": "Regularization Request",
+         "isEnable": true
+       }
+     ]
+   },
+   {
+     "capabilityType": "Reporting Manager Notification",
+     "isEnable": true
+   }
+ ]
